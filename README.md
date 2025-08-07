@@ -53,33 +53,33 @@ library-management-system/
 Below are example screenshots demonstrating various features of the Library Management System.
 
 ### Main Menu
-![Main Menu](screenshots/main_menu.png)<br>
+![Main Menu](screenshots/main_menu.png)<br><br>
 *Shows the initial menu options available to the user for managing the library system.*
 
 ### Add Book
-![Add Book](screenshots/add_book.png)<br>
+![Add Book](screenshots/add_book.png)<br><br>
 *Demonstrates the process of adding a new book by entering its ID, title, and author.*
 
 ### Add User
-![Add User](screenshots/add_user.png)<br>
+![Add User](screenshots/add_user.png)<br><br>
 *Shows how to add a new user, including selecting the user type (Student or Teacher) and entering details.*
 
 ### Show Books
-![Show Books](screenshots/show_books.png)<br>
+![Show Books](screenshots/show_books.png)<br><br>
 *Displays the list of all books currently available in the library.*
 
 ### Show Users
-![Show Users](screenshots/show_users.png)<br>
+![Show Users](screenshots/show_users.png)<br><br>
 *Displays the list of all users registered in the library system.*
 
 ### Issue Book
-![Issue Book](screenshots/issue_book.png)<br>
+![Issue Book](screenshots/issue_book.png)<br><br>
 *Shows the process of issuing a book to a user by entering the relevant IDs.*
 
 ### Return Book
-![Return Book](screenshots/return_book.png)<br>
+![Return Book](screenshots/return_book.png)<br><br>
 *Demonstrates how a user can return a previously issued book to the library.*
 
 ### Exit Option
-![Exit Option](screenshots/exit.png)<br>
+![Exit Option](screenshots/exit.png)<br><br>
 *Shows the exit option selected by the user, which safely terminates the application.*
