@@ -18,7 +18,7 @@ This is a simple console-based Library Management System implemented in Java usi
 
 ## Project Structure
 ```
-Task_3/
+library-management-system/
 ├── src/           # Java source files (.java)
 │   ├── Main.java
 │   ├── Book.java
